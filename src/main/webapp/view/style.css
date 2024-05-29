@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.header .banner{
+    width: 20%;
+    height: 100px;
+}
+.header .banner img{
+    width: 50%;
+    height: 100px;
+}
+.header .search{
+    width: 90%;
+    height: 50px;
+}
